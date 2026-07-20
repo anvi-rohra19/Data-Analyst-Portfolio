@@ -1,6 +1,7 @@
 # Data-Analyst-Portfolio
 
-Welcome to my portfolio! Below is a summary of the advanced data analysis projects I have completed, featuring business-driven problem solving using Python.
+Welcome to my portfolio!  
+Below is a summary of the advanced data analysis projects I have completed, featuring business-driven problem solving using Python.
 
 1. Walmart — Customer Purchase Behavior Analysis  
 Objective: Analyzed Black Friday transactional data to determine how gender, age, and demographics influence customer spending habits.  
