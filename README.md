@@ -8,9 +8,9 @@ Key Skills: Central Limit Theorem (CLT), Hypothesis Testing, Confidence Interval
 Core Insight: Male customers dominate the customer base (~75%) and maintain a significantly higher average transaction spend than female customers.
 
 2. Yulu — Micro-Mobility Demand PredictionObjective: Identified critical environmental and seasonal variables that significantly predict the demand for shared electric cycles in India.
-3. Key Skills: Chi-Square Test of Independence, ANOVA, Seasonality Tracking, Feature Correlation, Data Visualization.
-4. Core Insight: Bike rental demand is strictly driven by weather severity and seasonal shifts rather than calendar variables like weekends or holidays.
+Key Skills: Chi-Square Test of Independence, ANOVA, Seasonality Tracking, Feature Correlation, Data Visualization.
+Core Insight: Bike rental demand is strictly driven by weather severity and seasonal shifts rather than calendar variables like weekends or holidays.
 
-5. Aerofit — Customer Profiling & Product SegmentationObjective: Segmented customer demographic data to map income levels, fitness goals, and marital status against premium treadmill product choices.
-6. Key Skills: Customer Segmentation, Descriptive Analytics, Cross-Tabulation, Multi-Variable Profiling, Behavioral Analytics.
-7. Core Insight: The flagship KP781 treadmill captures the high-income bracket (>₹70k), but maintains strong cross-segment appeal among budget-conscious buyers via financial flexibility.
+3. Aerofit — Customer Profiling & Product SegmentationObjective: Segmented customer demographic data to map income levels, fitness goals, and marital status against premium treadmill product choices.
+Key Skills: Customer Segmentation, Descriptive Analytics, Cross-Tabulation, Multi-Variable Profiling, Behavioral Analytics.
+Core Insight: The flagship KP781 treadmill captures the high-income bracket (>₹70k), but maintains strong cross-segment appeal among budget-conscious buyers via financial flexibility.
